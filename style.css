@@ -273,7 +273,7 @@ section .title::after{
 }
 /*  sessão especialidades  */
 .skills .title::after{
-    content: "Que foram essenciais";
+    content: "Fundamentais";
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
